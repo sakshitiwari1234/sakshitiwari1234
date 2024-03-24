@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sakshitiwari1234
-- 👀 I’m interested in technology.
-- 🌱 I’m currently learning being a good programmer and deevloper.
-- 💞️ I’m looking to collaborate on Machine Learning and Data Science.
-- 📫 How to reach me 
-- 😄 Pronouns: She/Her
+- 👀 I’m a Tech-Geek.
+- 🌱 I’m currently learning being a good programmer and Developer to initiate magic by Techno.
+- 💞️ I’m looking to collaborate in Machine Learning and Data Science.
+
+
 
 
 <!---
