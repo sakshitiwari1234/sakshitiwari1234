@@ -30,13 +30,13 @@
 `Python` `C++` `JavaScript`
 
 **Web Tech:**  
-`HTML` `CSS` `Node.js` `MongoDB`
+`HTML` `CSS` `Node.js` `MongoDB` 
 
 **AI/ML:**  
-`TensorFlow` `Scikit-learn` `Pandas` `NumPy` `Streamlit`
+`TensorFlow` `Scikit-learn` `Pandas` `NumPy` `Streamlit` `Matplotlib`
 
 **Tools:**  
-`Git` `VS Code` `Jupyter Notebook` `Postman`
+`Git` `VS Code` `Jupyter Notebook` `Postman` `PowerBi` `Tableau`
 
 ---
 
