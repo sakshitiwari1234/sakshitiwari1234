@@ -1,9 +1,6 @@
-- 👋 Hi, Guyz.
-
-
 # 👋 Hi, I'm Sakshi Tiwari
 
-🎓 Final-year B.Tech student in AI & Data Science  
+🎓 I am a Final-year B.Tech student in AI & Data Science.   
 👀 I’m a Tech-Geek.
 💻 Passionate about Machine Learning, Web Development, and solving real-world problems  
 🌱 I’m currently learning being a good programmer and Developer to initiate magic by Techno.
