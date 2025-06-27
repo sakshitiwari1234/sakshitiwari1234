@@ -23,7 +23,16 @@
 > NLP-based chatbot using Dialogflow that allows users to explore the menu, place orders, and track them seamlessly.
 
 ---
+## 🛠️ My Tech Stack & Tools
 
+![HTML](https://img.shields.io/badge/HTML-5-orange)
+![CSS](https://img.shields.io/badge/CSS-3-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-brightgreen)
+![Python](https://img.shields.io/badge/Python-🐍-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-❤️-red)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black)
 ## 🧠 Skills & Tools
 
 **Languages:**  
@@ -46,15 +55,25 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshitiwari1234&layout=compact&theme=vision-friendly-dark)
 
+
+
+
+
 ---
 
 ## 🔗 Connect With Me
 
 🌐 [LinkedIn](https://www.linkedin.com/in/sakshi-tiwari-ab0b95251/)
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=sakshit123.sakshit123)
+
+
 ---
 
 > “Between logic and emotion lies innovation” ✨
+>
+> ![GitHub Streak](https://streak-stats.demolab.com?user=sakshitiwari1234&theme=default&hide_border=true)
+
 
 
 
