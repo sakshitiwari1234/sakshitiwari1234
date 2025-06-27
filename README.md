@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @sakshitiwari1234
-- 👀 I’m a Tech-Geek.
-- 🌱 I’m currently learning being a good programmer and Developer to initiate magic by Techno.
-- 💞️ I’m looking to collaborate in Machine Learning and Data Science.
+- 👋 Hi, Guyz.
+
 
 # 👋 Hi, I'm Sakshi Tiwari
 
