@@ -4,9 +4,9 @@
 👀 I’m a Tech-Geek.
 💻 Passionate about Machine Learning, Web Development, and solving real-world problems  
 🌱 I’m currently learning being a good programmer and Developer to initiate magic by Techno.
-
+👨‍🏭 Data Science Intern at Abstinent Research and Technologies.
 📊 Currently diving deep into and looking to collaborate in : **Machine Learning**, **Deep Learning**, and **Data Analytics**  
-🌐 Tech Enthusiast | Code Lover | Aspiring AI Engineer.  
+🌐 Tech Enthusiast | Aspiring AI and ML Engineer.  
 📫 Reach me at: sakchitiwari5817@gmail.com
 
 ---
